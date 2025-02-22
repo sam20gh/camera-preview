@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ahm.capacitor.camera.preview.capacitorcamerapreview.capacitor-community-camera-preview-mergeReleaseResources-22:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/mohamadrezakavoosi/.gradle/caches/8.9/transforms/17cc202d4cebce60d48954b3dafab8e5/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.ahm.capacitor.camera.preview.capacitorcamerapreview.capacitor-community-camera-preview-merged_res-24:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/mohamadrezakavoosi/.gradle/caches/8.9/transforms/17cc202d4cebce60d48954b3dafab8e5/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

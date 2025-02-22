@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.ahm.capacitor.camera.preview.capacitorcamerapreview.capacitor-community-camera-preview-merged_res-24:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.ahm.capacitor.camera.preview.capacitorcamerapreview.capacitor-community-camera-preview-appcompat-1.6.1-1:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.ahm.capacitor.camera.preview.capacitorcamerapreview.capacitor-community-camera-preview-merged_res-24:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.ahm.capacitor.camera.preview.capacitorcamerapreview.capacitor-community-camera-preview-appcompat-1.6.1-1:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

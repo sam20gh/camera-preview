@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml:2:3-4:14
+INJECTED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml:2:3-4:14
+INJECTED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml:2:3-4:14
+	package
+		INJECTED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml:2:3-4:14
+		INJECTED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml:2:13-71
+uses-sdk
+INJECTED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohamadrezakavoosi/Documents/GitHub/capacitor/grubpos/node_modules/@capacitor-community/camera-preview/android/src/main/AndroidManifest.xml
